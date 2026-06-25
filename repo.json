@@ -1,8 +1,8 @@
 {
   "formatVersion": 1,
-  "name": "CupStore Template Repo",
-  "description": "Official template repository for CupStore. Fork this to host your own mods.",
-  "author": "your-name",
+  "name": "plumegrise_lgdc Repo",
+  "description": "Official plumegrise_lgdc repository for CupStore.",
+  "author": "plumegrise_lgdc",
   "version": "1",
   "games": [
     {
